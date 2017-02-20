@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;brainfuck&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../shuffle" />
+      <root url="file://$PROJECT_DIR$/../datastructures" />
+      <root url="file://$PROJECT_DIR$/../chatex" />
+      <root url="file://$PROJECT_DIR$/../knd" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../movie" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../urlgetter" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../webstruct" />
+      <root url="file://$PROJECT_DIR$/../asdf" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hello" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../shuffle" />
+      <root url="file://$PROJECT_DIR$/../datastructures" />
+      <root url="file://$PROJECT_DIR$/../chatex" />
+      <root url="file://$PROJECT_DIR$/../knd" />
+      <root url="file://$PROJECT_DIR$/../honnef.co" />
+      <root url="file://$PROJECT_DIR$/../movie" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../urlgetter" />
+      <root url="file://$PROJECT_DIR$/../.idea" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../webstruct" />
+      <root url="file://$PROJECT_DIR$/../asdf" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
